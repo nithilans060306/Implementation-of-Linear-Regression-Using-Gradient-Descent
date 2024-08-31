@@ -68,7 +68,14 @@ print(f"Predicted value:{pre}")
 ```
 
 ## Output:
+## X values
 <img src="https://github.com/user-attachments/assets/beb61dca-e468-4d25-9e17-be2ec1ef5fb9" width="400"/>
+
+## X-Scaled values
+<img src="https://github.com/user-attachments/assets/f7446a30-204e-4ae6-991f-da72467a6690" width="400"/>
+
+## Predicted Values
+<img src="https://github.com/user-attachments/assets/9e5be2fc-2ad0-44ff-a1e2-d5a1e0ff1305" width="400"/>
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
